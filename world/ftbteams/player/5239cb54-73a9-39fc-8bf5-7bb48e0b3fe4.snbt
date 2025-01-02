@@ -1,0 +1,17 @@
+{
+	id: "5239cb54-73a9-39fc-8bf5-7bb48e0b3fe4"
+	type: "player"
+	player_name: "Pireszin"
+	ranks: {
+		5239cb54-73a9-39fc-8bf5-7bb48e0b3fe4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Pireszin"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF9F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
